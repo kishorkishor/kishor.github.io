@@ -1,0 +1,79 @@
+body{
+    text-align: center;
+    margin: 0;
+
+}
+.top_container{
+    margin-top: 0px;
+    background-color: #e4f9f5;
+    position: relative;
+
+ 
+ 
+}
+h1{ font-size: 80px ;
+    font-family: 'Grenze Gotisch', cursive;
+    padding-top: 200px;
+    margin-top: 0px;
+    color: #66BFBF;
+    line-height: 0;
+}
+.the_middle_container p { 
+
+}
+
+
+.the_bottom_container{
+    color: #11999e;
+
+
+}
+.pro{
+}
+.ucloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    margin-right: 0 auto;
+}
+.bcloud{
+    position: absolute;
+    /* margin: auto; */
+    left: 300px;
+    top: 300px;
+}
+.fontp{ color: deepskyblue;
+    font-weight: normal;
+    font-size: 2.5rem;
+    font-family: 'Parisienne', cursive;
+}
+h3{
+    color: #63bfbf;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+/* }
+.gif{
+    width: 25%;
+    height: 38%;
+} */
+.avater{
+    margin-right: 30px;
+    float: left;
+    width: 25%;
+}
+.gaming{
+    margin-right: 30px;
+    float: left;
+    width: 25%;
+}
+.poo{
+    position: relative;
+    margin-left: 100px;
+}
